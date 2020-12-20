@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58700" started-at="2020-12-13T18:59:04 IST" finished-at="2020-12-13T19:00:03 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58700" started-at="2020-12-13T18:59:04 IST" finished-at="2020-12-13T19:00:03 IST">
+      <class name="mypack.AjaxDemo">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mypack.AjaxDemo@3b084709]" name="setUp" is-config="true" duration-ms="48535" started-at="2020-12-13T18:59:04 IST" finished-at="2020-12-13T18:59:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_AjaxExample()[pri:0, instance:mypack.AjaxDemo@3b084709]" name="test_AjaxExample" duration-ms="10083" started-at="2020-12-13T18:59:53 IST" finished-at="2020-12-13T19:00:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_AjaxExample -->
+      </class> <!-- mypack.AjaxDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
